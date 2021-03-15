@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head runat="server">
-
     <meta charset="utf-8" />
     <title>Subir imágenes</title>
     <link rel="stylesheet" href="<%= ResolveClientUrl("~/css/index.css") %>" />
