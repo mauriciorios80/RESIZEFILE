@@ -1,0 +1,5 @@
+D:\RESIZEFILE\Libraries\FileManager\bin\Debug\FileManager.dll
+D:\RESIZEFILE\Libraries\FileManager\bin\Debug\FileManager.pdb
+D:\RESIZEFILE\Libraries\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\RESIZEFILE\Libraries\FileManager\obj\Debug\FileManager.dll
+D:\RESIZEFILE\Libraries\FileManager\obj\Debug\FileManager.pdb

@@ -1,0 +1,35 @@
+﻿body {
+    font-family: 'segoe ui', sans-serif;
+    font-size: 18px;
+}
+
+form h1 {
+color:darkturquoise
+}
+
+form div {
+    margin: .9em 0;
+}
+
+form label {
+    cursor: pointer;
+    display: block;
+    color: blue
+}
+
+form label:hover {
+    text-shadow: 0 0 .1em #0c9dfe;
+}
+
+form input,
+form button {
+    font-size: inherit;
+}
+
+form div.message {
+    background-color: #e5b9b9;
+    box-shadow: inset 0 0 2px #600;
+    color: #600;
+}
+
+/**/

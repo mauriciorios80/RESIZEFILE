@@ -1,0 +1,6 @@
+D:\RESIZEFILE\Libraries\ImageManager\bin\Debug\ImageManager.dll
+D:\RESIZEFILE\Libraries\ImageManager\bin\Debug\ImageManager.pdb
+D:\RESIZEFILE\Libraries\ImageManager\obj\Debug\ImageManager.csprojAssemblyReference.cache
+D:\RESIZEFILE\Libraries\ImageManager\obj\Debug\ImageManager.csproj.CoreCompileInputs.cache
+D:\RESIZEFILE\Libraries\ImageManager\obj\Debug\ImageManager.dll
+D:\RESIZEFILE\Libraries\ImageManager\obj\Debug\ImageManager.pdb
