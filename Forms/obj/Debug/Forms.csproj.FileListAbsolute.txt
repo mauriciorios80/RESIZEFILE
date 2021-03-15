@@ -50,3 +50,29 @@ D:\RESIZEFILE - copia\ASPX-App\obj\Debug\Forms.csproj.CoreCompileInputs.cache
 D:\RESIZEFILE - copia\ASPX-App\obj\Debug\Forms.csproj.CopyComplete
 D:\RESIZEFILE - copia\ASPX-App\obj\Debug\Forms.dll
 D:\RESIZEFILE - copia\ASPX-App\obj\Debug\Forms.pdb
+D:\RESIZEFILE\Forms\bin\roslyn\csc.exe
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RESIZEFILE\Forms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RESIZEFILE\Forms\bin\roslyn\System.Collections.Immutable.dll
+D:\RESIZEFILE\Forms\bin\roslyn\System.Reflection.Metadata.dll
+D:\RESIZEFILE\Forms\bin\roslyn\vbc.exe
+D:\RESIZEFILE\Forms\bin\roslyn\VBCSCompiler.exe
+D:\RESIZEFILE\Forms\bin\roslyn\VBCSCompiler.exe.config
+D:\RESIZEFILE\Forms\bin\Forms.dll.config
+D:\RESIZEFILE\Forms\bin\Forms.dll
+D:\RESIZEFILE\Forms\bin\Forms.pdb
+D:\RESIZEFILE\Forms\bin\FileManager.dll
+D:\RESIZEFILE\Forms\bin\ImageManager.dll
+D:\RESIZEFILE\Forms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RESIZEFILE\Forms\bin\FileManager.pdb
+D:\RESIZEFILE\Forms\bin\ImageManager.pdb
+D:\RESIZEFILE\Forms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RESIZEFILE\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+D:\RESIZEFILE\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\RESIZEFILE\Forms\obj\Debug\Forms.csproj.CopyComplete
+D:\RESIZEFILE\Forms\obj\Debug\Forms.dll
+D:\RESIZEFILE\Forms\obj\Debug\Forms.pdb
