@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "ASPX-App\Forms.csproj", "{029B3D81-DBF0-47D8-94A6-5EDCD2242641}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{029B3D81-DBF0-47D8-94A6-5EDCD2242641}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{1C26E2E5-15A2-4E6F-935A-AE97B6EC5D6D}"
 EndProject
